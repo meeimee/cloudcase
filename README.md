@@ -16,3 +16,4 @@ This project serves as an illustrative example of how a Java web application sho
 1. Implemented Service class that would be able to calculate the annual tax from different tax brackets.
 2. Implemented the calculation for supper annuation based.
 3. Best practice to structure the java spring-boot
+   ![alt text](https://github.com/meeimee/cloudcase/blob/master/docs/folder-struc.png?raw=true)
